@@ -1,0 +1,3 @@
+/Users/toluwanimi/CLionProjects/tobi works/linked-list/cmake-build-debug/CMakeFiles/linked_list.dir
+/Users/toluwanimi/CLionProjects/tobi works/linked-list/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/toluwanimi/CLionProjects/tobi works/linked-list/cmake-build-debug/CMakeFiles/rebuild_cache.dir

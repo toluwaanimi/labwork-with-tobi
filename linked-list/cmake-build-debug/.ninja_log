@@ -1,0 +1,18 @@
+# ninja log v5
+748	811	1670690814654123859	linked_list	ccaaa90559e1b66a
+20	734	1670690814565623191	CMakeFiles/linked_list.dir/main.cpp.o	6760602a7e146a67
+22	748	1670690814586924671	CMakeFiles/linked_list.dir/implementation.cpp.o	c3cf163ba8e143a7
+4	530	1670690881676768284	CMakeFiles/linked_list.dir/main.cpp.o	6760602a7e146a67
+5	563	1670690881709468619	CMakeFiles/linked_list.dir/implementation.cpp.o	c3cf163ba8e143a7
+563	620	1670690881768704617	linked_list	ccaaa90559e1b66a
+6	599	1670691097205651341	CMakeFiles/linked_list.dir/main.cpp.o	6760602a7e146a67
+6	633	1670691097240781272	CMakeFiles/linked_list.dir/implementation.cpp.o	c3cf163ba8e143a7
+633	688	1670691097298242993	linked_list	ccaaa90559e1b66a
+8	600	1670691127787415800	CMakeFiles/linked_list.dir/implementation.cpp.o	c3cf163ba8e143a7
+600	661	1670691127851297050	linked_list	ccaaa90559e1b66a
+7	651	1670691165082724532	CMakeFiles/linked_list.dir/implementation.cpp.o	c3cf163ba8e143a7
+651	713	1670691165150589992	linked_list	ccaaa90559e1b66a
+6	683	1670691350965768368	CMakeFiles/linked_list.dir/implementation.cpp.o	c3cf163ba8e143a7
+683	742	1670691351028120267	linked_list	ccaaa90559e1b66a
+5	597	1670691828704247914	CMakeFiles/linked_list.dir/implementation.cpp.o	c3cf163ba8e143a7
+597	652	1670691828762205807	linked_list	ccaaa90559e1b66a
