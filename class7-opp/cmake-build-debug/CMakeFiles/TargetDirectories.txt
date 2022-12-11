@@ -1,0 +1,3 @@
+/Users/toluwanimi/CLionProjects/tobi works/class7-opp/cmake-build-debug/CMakeFiles/class7_opp.dir
+/Users/toluwanimi/CLionProjects/tobi works/class7-opp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/toluwanimi/CLionProjects/tobi works/class7-opp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
