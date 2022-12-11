@@ -40,22 +40,12 @@ double Complex::magnitude() {
 Complex Complex::add(Complex complex) {
     Complex result(this->re + complex.re, this->im + complex.im); // result object of complex class
 
-    // adding real part of complex numbers
-
-    // adding Imaginary part of complex numbers
-
-    // returning the sum
     return result;
 }
 
 Complex Complex::subtract(Complex complex) {
     Complex result(this->re - complex.re, this->im - complex.im); // result object of complex class
 
-    // adding real part of complex numbers
-
-    // adding Imaginary part of complex numbers
-
-    // returning the sum
     return result;
 }
 
@@ -63,11 +53,6 @@ Complex Complex::multiply(Complex complex) {
     Complex result((this->re * complex.re) - (this->im * complex.im),
                    (this->re * complex.im) + (this->im * complex.re)); // result object of complex class
 
-    // adding real part of complex numbers
-
-    // adding Imaginary part of complex numbers
-
-    // returning the sum
     return result;
 }
 
@@ -77,11 +62,6 @@ Complex Complex::divide(Complex complex) {
             (((complex.re) * (this->im)) - ((this->im) * (complex.im))) /
             (pow(complex.re, 2) + pow(complex.im, 2))); // result object of complex class
 
-    // adding real part of complex numbers
-
-    // adding Imaginary part of complex numbers
-
-    // returning the sum
     return result;
 }
 
