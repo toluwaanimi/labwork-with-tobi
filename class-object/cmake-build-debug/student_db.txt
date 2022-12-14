@@ -1,0 +1,20 @@
+Rogelio,Hudson,398184923,21,BEng Electronic and Electrical Engineering
+John,Blogs,591750349,32,MSc Electronic and Electrical Engineering
+Arielle,Zhang,207742095,28,MEng Electrical and Mechanical Engineering
+Daniella,Maynard,213397794,19,MEng Electrical and Mechanical Engineering
+Giancarlo,Valenzuela,608169386,18,BEng Electronic and Electrical Engineering
+Killian,Cantu,894525680,20,MEng Electronic and Electrical Engineering
+Paola,White,695351219,19,MEng Electrical and Mechanical Engineering
+Aileen,Shaw,330468304,19,BEng Electronic and Electrical Engineering
+Zachariah,Fisher,622937372,18,BEng Electronic and Electrical Engineering
+Charles,Wiggins,652516858,48,MEng Computer and Electronics
+Connor,Lane,547281096,33,MSc Electronic and Electrical Engineering
+Dominic,Pham,241831989,18,MEng Electrical and Mechanical Engineering
+Mike,Blogs,591491349,32,MSc Electronic and Electrical Engineering
+Cade,Farrell,304748057,25,MEng Computer and Electronics
+Giovani,Zhang,149119468,19,MSc Electronic and Electrical Engineering
+Jaqueline,Frank,359216130,18,MEng Electronic and Electrical Engineering
+Jonh,Dunlop,908889197,25,BEng Electronic and Electrical Engineering
+Gloria,Ward,445373496,24,MEng Electronic and Electrical Engineering
+Averie,Durham,490357604,23,BEng Electronic and Electrical Engineering
+Laila,Randolph,757681709,22,MEng Computer and Electronics
