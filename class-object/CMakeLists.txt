@@ -3,4 +3,4 @@ project(class_object)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(class_object main.cpp student_list.cpp student_list.h student.cpp student.h ui.cpp ui.h)
+add_executable(class_object main.cpp student_list.cpp student_list.h student.cpp student.h ui.cpp ui.h module.cpp)

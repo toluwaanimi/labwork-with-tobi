@@ -70,6 +70,12 @@ build CMakeFiles/class_object.dir/ui.cpp.o: CXX_COMPILER__class_object_Debug /Us
   OBJECT_DIR = CMakeFiles/class_object.dir
   OBJECT_FILE_DIR = CMakeFiles/class_object.dir
 
+build CMakeFiles/class_object.dir/module.cpp.o: CXX_COMPILER__class_object_Debug /Users/toluwanimi/CLionProjects/tobi$ works/class-object/module.cpp || cmake_object_order_depends_target_class_object
+  DEP_FILE = CMakeFiles/class_object.dir/module.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk -fcolor-diagnostics -std=gnu++17
+  OBJECT_DIR = CMakeFiles/class_object.dir
+  OBJECT_FILE_DIR = CMakeFiles/class_object.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target class_object
@@ -78,7 +84,7 @@ build CMakeFiles/class_object.dir/ui.cpp.o: CXX_COMPILER__class_object_Debug /Us
 #############################################
 # Link the executable class_object
 
-build class_object: CXX_EXECUTABLE_LINKER__class_object_Debug CMakeFiles/class_object.dir/main.cpp.o CMakeFiles/class_object.dir/student_list.cpp.o CMakeFiles/class_object.dir/student.cpp.o CMakeFiles/class_object.dir/ui.cpp.o
+build class_object: CXX_EXECUTABLE_LINKER__class_object_Debug CMakeFiles/class_object.dir/main.cpp.o CMakeFiles/class_object.dir/student_list.cpp.o CMakeFiles/class_object.dir/student.cpp.o CMakeFiles/class_object.dir/ui.cpp.o CMakeFiles/class_object.dir/module.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk
   OBJECT_DIR = CMakeFiles/class_object.dir
   POST_BUILD = :
