@@ -64,6 +64,16 @@ string* bubbleSort(string* names) {
     }
     string* newAr = names;
     return  newAr;
+    /**
+     * Bubble sort.
+     * In first cycle,
+Start by comparing 1st and 2nd element and swap if 1st element is greater.
+After that do the same for 2nd and 3rd element.
+At the end of cycle you will get max element at the end of list.
+Now do the same in all subsequent cycles.
+Perform this for (number of elements – 1) times.
+You will get sorted list.
+     */
 }
 
 

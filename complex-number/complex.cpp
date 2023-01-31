@@ -14,6 +14,15 @@ string toString(Complex c){
         return to_string(c.re) + "+i"  + to_string(abs((c.im)));
     }
     return to_string(c.re) + "-i"  + to_string(abs((c.im)));
+    /**
+     * The algorithm involved in this function would be
+     *
+     * 1. Create a function toString with Parameter Complex c
+     * 2. Check if c.im is greater than 0
+     * 3. If the condition is true, return c.re + "+1"+ absolute value of c.im
+     * 4. If not true return c.re + "-i absolute value of c.im
+     *
+     */
 }
 
 
@@ -22,10 +31,25 @@ Complex conjugate(Complex c){
     conj.re = c.re;
     conj.im = -1 *c.im;
     return conj;
+    /**
+     * this function is to return the conjugate
+     * It accept a value Complex c
+     * A variable conj is created
+     * The value of conj is set to
+     * conj.re = c.re
+     * conj.im = -1. * c.im
+     * and the value of conj is  returned.
+     */
 }
 
 double magnitude(Complex c){
     return sqrt(pow(c.im,2) + pow(c.re, 2));
+    /**
+     * function magnitude
+     * I created the function to accept Complex c has argument.
+     * I calculate the magnitude by returning the square root of
+     * c.im power 2 added with c.re power 2
+     */
 }
 
 Complex add(Complex c, Complex res){

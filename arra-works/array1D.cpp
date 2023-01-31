@@ -48,6 +48,21 @@ int* allocate1DArray(string filename){
         count++;
     }
     return  arrayValue;
+    /**
+     * create a string variable myText
+     * create a int variable called length
+     * create a file streamer object
+     * check while the file has lines
+     * increment the value of value by 1
+     * the loop comes to an end when there's no more lines in the file.
+     *
+     * based on the value of length
+     * create an array with the size of length "arrayValue"
+     * create a variable count and set the value to 0
+     * create a while loop to get the files
+     * while the loop has not reached the end of the file lines
+     * it set the value in the value into the array created.
+     */
 }
 
 void deallocate1DArray(int* array){
@@ -63,6 +78,15 @@ int* add(int x[], int y[]){
         result[i] = x[i] + y[i];
     }
     return  result;
+    /**
+     * the function add the value in array x and y together.
+     * we get the length of array x and y
+     * we create another array based on the length
+     * we have a for loop stating till
+     * to add the values of x and y and store it into result
+     * result[i] = x[i] + y[i]
+     * and return result has the result of the function.
+     */
 }
 
 int* subtract(int x[], int y[]){
